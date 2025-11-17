@@ -12,4 +12,3 @@ Multi-Cloud
 5. GitHub
 6. VMware
 7. Many more
-
