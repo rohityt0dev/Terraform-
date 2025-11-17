@@ -5,11 +5,11 @@ Why Terraform is used ?
 Build servers, networks, storage using code.
 
 Multi-Cloud 
-1.AWS
-2.Azure
-3.GCP
-4.Kubernetes
-5.GitHub
-6.VMware
-7.Many more
+1. AWS
+2. Azure
+3. GCP
+4. Kubernetes
+5. GitHub
+6. VMware
+7. Many more
 
