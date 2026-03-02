@@ -12,3 +12,8 @@ Multi-Cloud
 5. GitHub
 6. VMware
 7. Many more
+
+## 📝 My Blog
+
+🚀 I share DevOps and Cloud learning here:  
+👉 [Read my blogs on Hashnode](https://breaking-into-devops.hashnode.dev/terraform)
