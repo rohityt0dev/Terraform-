@@ -12,7 +12,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "e1" {
-    ami = "ami-03695d52f0d883f65"
+    ami = "AMI ID"
     instance_type = "t2.micro"
     tags = {
         Name = "FirstInstance"
