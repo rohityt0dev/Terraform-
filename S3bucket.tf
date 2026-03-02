@@ -13,7 +13,7 @@ region = "ap-south-1"
 }
 
 resource "aws_s3_bucket" "E1" {
-  bucket = "rohitbuckert12345tf"
+  bucket = "bucket name"
 
   tags = {
     Name        = "My bucket"
